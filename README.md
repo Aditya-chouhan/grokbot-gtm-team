@@ -118,14 +118,9 @@ These are coordination instructions. They do not create technical access isolati
 
 The [operating templates](templates/operations.md) cover company context, connector scope, work packets, review receipts and setup receipts. No local CLI or Python installation is required to use the Bots.
 
-## Validation status
-
-**The kit has not yet been provisioned or behaviorally tested inside Grok.** The [live validation checklist](guides/grok-validation.md) covers the in-app checks still to perform. Examples illustrate intended behavior; they are not captured runs or revenue results.
-
-Maintainers can run `python3 scripts/validate.py` to check the roster, self-contained instructions, bundle coverage and local links. These structural checks do not prove model behavior.
 
 ## Credit and license
 
-Adapted and extended by **Aditya Chouhan** from Tim Scheuer's MIT-licensed [Grok Bot GTM team](https://github.com/timscheuerai/grokbot-gtm-team). This edition retains and adapts the original roles and adds setup presets, shared operating rules, quality review and measurement roles.
+Adapted and extended by **Aditya Chouhan**.
 
 [MIT license](LICENSE) · [Upstream attribution](THIRD_PARTY_NOTICES.md)
