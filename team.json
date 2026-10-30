@@ -1,0 +1,65 @@
+{
+  "bots": [
+    {
+      "file": "01-chief-of-staff.md",
+      "name": "Chief of Staff"
+    },
+    {
+      "file": "02-outbound-lead.md",
+      "name": "Outbound Lead"
+    },
+    {
+      "file": "03-lead-sourcer.md",
+      "name": "Lead Sourcer"
+    },
+    {
+      "file": "04-outbound-copywriter.md",
+      "name": "Outbound Copywriter"
+    },
+    {
+      "file": "05-sequences-deliverability.md",
+      "name": "Sequences & Deliverability"
+    },
+    {
+      "file": "06-social-engagement.md",
+      "name": "Social Engagement"
+    },
+    {
+      "file": "07-reply-manager.md",
+      "name": "Reply Manager"
+    },
+    {
+      "file": "08-deal-reactivation.md",
+      "name": "Deal Reactivation"
+    },
+    {
+      "file": "09-head-of-content.md",
+      "name": "Head of Content"
+    },
+    {
+      "file": "10-linkedin-writer.md",
+      "name": "LinkedIn Writer"
+    },
+    {
+      "file": "11-x-writer.md",
+      "name": "X Writer"
+    },
+    {
+      "file": "12-youtube-writer.md",
+      "name": "YouTube Writer"
+    },
+    {
+      "file": "13-graphic-designer.md",
+      "name": "Graphic Designer"
+    },
+    {
+      "file": "15-quality-reviewer.md",
+      "name": "Quality Reviewer"
+    },
+    {
+      "file": "16-revenue-analyst.md",
+      "name": "Revenue Analyst"
+    }
+  ],
+  "default_routines": "off"
+}
